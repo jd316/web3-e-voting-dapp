@@ -136,5 +136,3 @@ contract Election {
 ## License
 
 This project is released under the MIT License. Feel free to fork, modify, and contribute!
-
-<div style="text-align: center">⁂</div>
